@@ -4,7 +4,7 @@
 #
 Name     : resolvelib
 Version  : 0.5.4
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/8f/7f/b8b2c7e8b2030710b6ef2d14b2201272dfe437d6c37cec29c60f38d3139d/resolvelib-0.5.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8f/7f/b8b2c7e8b2030710b6ef2d14b2201272dfe437d6c37cec29c60f38d3139d/resolvelib-0.5.4.tar.gz
 Summary  : Resolve abstract dependencies into concrete ones
